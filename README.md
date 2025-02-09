@@ -1,4 +1,4 @@
-# Sistema de Comunicado de Itens Perdidos e Achados
+# Sistema de Gerenciamentos de Comunicados de Itens Perdidos e Achados
 
 O sistema de comunicado de itens perdidos e achados foi desenvolvido utilizando Kotlin e Jetpack Compose, proporcionando uma interface moderna e fluída para os utilizadores. A aplicação conta com a integração de um banco de dados local através do Room Database, que é responsável pelo armazenamento e persistência das sessões de utilizadores, bem como pela gestão da lista de itens favoritos.
 
