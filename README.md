@@ -14,9 +14,9 @@ Este sistema é altamente escalável e eficiente, integrando tecnologias moderna
 
 O sistema contempla uma tela splash que roda por 3 segundos seguido de uma tela de login.
 
-o login é efectuado com e-mail e senha validadas no frontend que verifica o formato correcto do e-mail e uma senha com o mínimo de 4 caracteres. No lado do servidor o e-mail e a senha são novamente verificados antes de retornar toda informação da sessão.
+O login é efectuado com e-mail e senha validadas no frontend que verifica o formato correcto do e-mail e uma senha com o mínimo de 4 caracteres. No lado do servidor o e-mail e a senha são novamente verificados antes de retornar toda informação da sessão.
 
-L sistema contempla uma tela Home que lista todos itens perdidos ou achados que ainda não foram recuperados.
+O sistema contempla uma tela Home que lista todos itens perdidos ou achados que ainda não foram recuperados.
 
 No home contém também os botões adicionar item perdido/achado e lista de favoritos.
 
